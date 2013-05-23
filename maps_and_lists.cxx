@@ -36,7 +36,7 @@ int main(void){
    //log frequency of each element
 	std::map<int, int> num_freq;
 	//iterate over each element in the list
-	for(std::list<int>::iterator iter1 = the_list.begin(); iter1 !=the_list.end(); ++iter1){
+	for(std::list<int>::iterator iter2 = the_list.begin(); iter1 !=the_list.end(); ++iter1){
 		//create a key/value pair where k=num/v=num_freq, v=0
 		num_freq[*iter1] = 0; 
 

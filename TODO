@@ -1,6 +1,0 @@
-maps_and_list.cxx
-   -remove defines use const
-   -use for_each loop
-   -maybe create template function
-   -use auto to make it 'smarter'
-   -use C++ alternate init syntaxt var(value)
